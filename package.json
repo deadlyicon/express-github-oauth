@@ -1,0 +1,29 @@
+{
+  "name": "express-github-oauth",
+  "version": "1.0.0",
+  "description": "express-github-oauth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadlyicon/express-github-oauth.git"
+  },
+  "keywords": [
+    "express",
+    "github",
+    "oauth"
+  ],
+  "author": "Jared Grippe <jared@deadlyicon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deadlyicon/express-github-oauth/issues"
+  },
+  "homepage": "https://github.com/deadlyicon/express-github-oauth#readme",
+  "dependencies": {
+    "randomstring": "^1.1.5",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1"
+  }
+}
